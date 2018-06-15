@@ -1,9 +1,9 @@
 package com.withmes.wxaccounts.config.base.service;
 
 import com.baomidou.mybatisplus.mapper.Wrapper;
-import com.withmes.plan.config.base.dal.BaseMapper;
-import com.withmes.plan.config.base.exception.ValidateErrorException;
-import com.withmes.plan.config.base.utils.Reflections;
+import com.withmes.wxaccounts.config.base.dal.BaseMapper;
+import com.withmes.wxaccounts.config.base.exception.ValidateErrorException;
+import com.withmes.wxaccounts.config.base.utils.Reflections;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

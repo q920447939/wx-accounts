@@ -1,8 +1,8 @@
 package com.withmes.wxaccounts.config.base.exception;
 
 
-import com.withmes.plan.config.base.enums.ResultCode;
-import com.withmes.plan.config.base.enums.ResultEnum;
+import com.withmes.wxaccounts.config.base.enums.ResultCode;
+import com.withmes.wxaccounts.config.base.enums.ResultEnum;
 
 /**
  * @Description:业务异常
