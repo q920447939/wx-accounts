@@ -9,6 +9,6 @@ public class WxAccountsApplication {
     public static void main(String[] args) {
         SpringApplication.run(WxAccountsApplication.class, args);
 
-        System.out.println(123);
+        System.out.println(1234);
     }
 }
